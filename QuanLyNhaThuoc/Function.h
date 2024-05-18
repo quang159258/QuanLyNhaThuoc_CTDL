@@ -928,7 +928,7 @@ int GetMinSoLuongBan(unordered_map<string,int>ThongKe)
     }
     return R;
 }
-void ThongKeThuocBan(QueueHDXuat t,int choice) //0 là nhiều nhất, 1 là ít nhất
+void ThongKeThuocBan(QueueHDXuat t,int choice) //0 là ÍT nhất, 1 là NHIỀU nhất
 {
     //Ngày 1 xuất thuốc A, số lượng 7
     //ngày 3 Xuất thuốc A số lượng 8
@@ -949,7 +949,7 @@ void ThongKeThuocBan(QueueHDXuat t,int choice) //0 là nhiều nhất, 1 là ít
         current=current->Next;
     }
     int temp;
-    if(choice==0)
+    if(choice==1)
     {
         temp=GetMaxSoLuongBan(ThongKe);
     }

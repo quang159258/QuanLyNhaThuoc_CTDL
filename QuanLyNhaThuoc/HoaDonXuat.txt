@@ -27,7 +27,7 @@ Ngayxuat:16-05-2024
 Diengiai:Xuat don thuoc cho cong ty BCD
 Mathuoc:T004
 Solo:L004
-Soluong:9
+Soluong:18
 Nguoimua:Nguyen Tran Quang
 ----------------------
 MaHD:X005
