@@ -1,0 +1,195 @@
+MaHD:N001
+Ngaynhap:16-5-2024
+Diengiai:Nhap thuoc tu cong ty OPC
+Mathuoc:T001
+Solo:L001
+Tenthuoc:Eugica
+Thanhphan:Eucalyptol, Menthol natural, Tinh dau gung, Tinh dau tan, Tinh dau tram
+Congdung:Tri ho, dau hong
+Ghichu:Dung 3 lan 1 ngay, sau khi an
+Soluong:30
+NgaySX:20-09-2023
+NgayHH:20-09-2025
+CongtySX:OPC
+----------------------
+MaHD:N002
+Ngaynhap:16-5-2024
+Diengiai:Nhap thuoc tu cong ty Sanofi
+Mathuoc:T002
+Solo:L002
+Tenthuoc:Cidestuss
+Thanhphan:Guaifenesin 100mg, Cetirizin 2HCl 5mg, Dextromethorphan HBr 15mg, Sap ong, Dau nanh
+Congdung:Tri ho, cam, xo mui
+Ghichu:Dung 3 lan 1 ngay, sau khi an
+Soluong:30
+NgaySX:23-03-2023
+NgayHH:23-03-2026
+CongtySX:Sanofi
+----------------------
+MaHD:N003
+Ngaynhap:16-5-2024
+Diengiai:Nhap thuoc tu cong ty Pharma
+Mathuoc:T003
+Solo:L003
+Tenthuoc:Pharacetamol
+Thanhphan:Acetaminophen
+Congdung:Giam dau
+Ghichu:Dung moi lan 1 vien
+Soluong:30
+NgaySX:11-09-2023
+NgayHH:11-09-2025
+CongtySX:Pharma
+----------------------
+MaHD:N004
+Ngaynhap:16-5-2024
+Diengiai:Nhap thuoc tu cong ty Traphaco
+Mathuoc:T004
+Solo:L004
+Tenthuoc:Hoat huyet duong nao
+Thanhphan:Extractum Radix Polysciacis Spissum, Extractum Folii Ginkgo siccus
+Congdung:Bo nao
+Ghichu:Dung 3 lan 1 ngay, moi lan 1 vien, sau khi an
+Soluong:9
+NgaySX:07-12-2022
+NgayHH:20-03-2024
+CongtySX:Traphaco
+----------------------
+MaHD:N005
+Ngaynhap:16-5-2024
+Diengiai:Nhap thuoc tu cong ty Bidiphar
+Mathuoc:T005
+Solo:L005
+Tenthuoc:Lactoxol
+Thanhphan:Ambroxol hydroclorid 360 mg, Acesulfam kali, Sucrose, Maltodextrin, Acid malic
+Congdung:Tieu chat nhay
+Ghichu:Uong 5ml moi lan, 3 lan mot ngay sau khi an
+Soluong:16
+NgaySX:22-01-2024
+NgayHH:22-01-2027
+CongtySX:Bidiphar
+----------------------
+MaHD:N006
+Ngaynhap:16-5-2024
+Diengiai:Nhap thuoc tu cong ty Mediplantex
+Mathuoc:T100
+Solo:L006
+Tenthuoc:Molvitax
+Thanhphan:Vitamin B1, Vitamin B2, Vitamin PP, Vitamin B6, Vitamin B5
+Congdung:Bo sung vitamin va khoang chat
+Ghichu:Uong moi lan 1 vien, 2 lan 1 ngay vao sang va toi
+Soluong:60
+NgaySX:22-03-2024
+NgayHH:22-01-2028
+CongtySX:Mediplantex
+----------------------
+MaHD:N007
+Ngaynhap:16-5-2024
+Diengiai:Nhap thuoc tu cong ty Pharma
+Mathuoc:T101
+Solo:L007
+Tenthuoc:Timi Roitin
+Thanhphan:Chondroitin sulfate natri 90mg, Nicotinamide 50mg, Fursultiamine 50mg
+Congdung:Bo sung vitamin B
+Ghichu:Dung 3 lan 1 ngay, moi lan 1 vien, sau khi an
+Soluong:110
+NgaySX:20-03-2023
+NgayHH:20-03-2026
+CongtySX:Pharma
+----------------------
+MaHD:N008
+Ngaynhap:16-5-2024
+Diengiai:Nhap thuoc tu cong ty Pharma
+Mathuoc:T102
+Solo:L008
+Tenthuoc:Morphine
+Thanhphan:Morphine hydrochloride
+Congdung:Giam dau sau phau thuat, ung thu, dau tim.
+Ghichu:Tiem 5ml, 4 gio 1 lan sau phau thuat
+Soluong:50
+NgaySX:11-04-2022
+NgayHH:11-04-2026
+CongtySX:Pharma
+----------------------
+MaHD:N009
+Ngaynhap:16-5-2024
+Diengiai:Nhap thuoc tu cong ty Thien Thanh
+Mathuoc:T103
+Solo:L009
+Tenthuoc:Sakanti
+Thanhphan:Curcuminoid, 500mg Bioperin
+Congdung:Giam phat trien ung thu
+Ghichu:Ngay 1 lan, moi lan 1 vien vao moi sag
+Soluong:30
+NgaySX:10-05-2023
+NgayHH:10-05-2026
+CongtySX:Thien Thanh
+----------------------
+MaHD:N010
+Ngaynhap:16-5-2024
+Diengiai:Nhap thuoc tu cong ty Domesco
+Mathuoc:T104
+Solo:L010
+Tenthuoc:Omol
+Thanhphan:Dinatri hydrogen orthophosphat, Natri lauryl sulfat, Calci carbonat
+Congdung:Dieu tri viem loet da day
+Ghichu:Ngay 3 lan, moi lan 1 vien sau bua an
+Soluong:60
+NgaySX:23-05-2023
+NgayHH:23-05-2027
+CongtySX:Domesco
+----------------------
+MaHD:N011
+Ngaynhap:16-5-2024
+Diengiai:Nhap thuoc tu cong ty Pharma
+Mathuoc:T105
+Solo:L011
+Tenthuoc:Comopas
+Thanhphan:Colistin
+Congdung:Khang sinh, tri nhiem khuan
+Ghichu:Tiem 5mg, chia lam 4 dot tiem
+Soluong:120
+NgaySX:09-01-2023
+NgayHH:09-01-2024
+CongtySX:Pharma
+----------------------
+MaHD:N012
+Ngaynhap:16-5-2024
+Diengiai:Nhap thuoc tu cong ty Pharma
+Mathuoc:T106
+Solo:L012
+Tenthuoc:Loperamide hydrochloride
+Thanhphan:Loperamid
+Congdung:Tri dau bung
+Ghichu:2 lan mot ngay vao sang va toi
+Soluong:40
+NgaySX:11-01-2023
+NgayHH:11-06-2024
+CongtySX:Pharma
+----------------------
+MaHD:N013
+Ngaynhap:16-5-2024
+Diengiai:Nhap thuoc tu cong ty OPC
+Mathuoc:T001
+Solo:L001
+Tenthuoc:Eugica
+Thanhphan:Eucalyptol, Menthol natural, Tinh dau gung, Tinh dau tan, Tinh dau tram
+Congdung:Tri ho, dau hong
+Ghichu:Dung 3 lan 1 ngay, sau khi an
+Soluong:30
+NgaySX:20-05-2024
+NgayHH:20-10-2024
+CongtySX:OPC
+----------------------
+MaHD:N004
+Ngaynhap:16-5-2024
+Diengiai:Nhap thuoc tu cong ty Traphaco
+Mathuoc:T004
+Solo:L004
+Tenthuoc:Hoat huyet duong nao
+Thanhphan:Extractum Radix Polysciacis Spissum, Extractum Folii Ginkgo siccus
+Congdung:Bo nao
+Ghichu:Dung 3 lan 1 ngay, moi lan 1 vien, sau khi an
+Soluong:9
+NgaySX:07-12-2023
+NgayHH:20-07-2024
+CongtySX:Traphaco

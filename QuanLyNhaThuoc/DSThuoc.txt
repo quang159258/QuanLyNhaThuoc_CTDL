@@ -1,0 +1,134 @@
+Mathuoc:T001
+Tenthuoc:Eugica
+Thanhphan:Eucalyptol, Menthol natural, Tinh dau gung, Tinh dau tan, Tinh dau tram
+Congdung:Tri ho, dau hong
+Ghichu:Dung 3 lan 1 ngay, sau khi an
+Soluong:3
+NgaySX:20-09-2023
+NgayHH:20-09-2025
+----------------------
+Mathuoc:T002
+Tenthuoc:Cidestuss
+Thanhphan:Guaifenesin 100mg, Cetirizin 2HCl 5mg, Dextromethorphan HBr 15mg
+Congdung:Tri ho, cam, xo mui
+Ghichu:Dung 3 lan 1 ngay, sau khi an
+Soluong:10
+NgaySX:23-03-2023
+NgayHH:23-03-2026
+----------------------
+Mathuoc:T003
+Tenthuoc:Pharacetamol
+Thanhphan:Acetaminophen
+Congdung:Giam dau
+Ghichu:Dung moi lan 1 vien
+Soluong:30
+NgaySX:11-09-2023
+NgayHH:11-09-2025
+----------------------
+Mathuoc:T004
+Tenthuoc:Hoat huyet duong nao
+Thanhphan:Extractum Radix Polysciacis Spissum, Extractum Folii Ginkgo siccus
+Congdung:Bo nao
+Ghichu:Dung 3 lan 1 ngay, moi lan 1 vien, sau khi an
+Soluong:9
+NgaySX:07-12-2022
+NgayHH:20-09-2024
+----------------------
+Mathuoc:T005
+Tenthuoc:Lactoxol
+Thanhphan:Ambroxol hydroclorid 360 mg, Acesulfam kali, Sucrose, Maltodextrin, Acid malic
+Congdung:Tieu chat nhay
+Ghichu:Uong 5ml moi lan, 3 lan mot ngay sau khi an
+Soluong:16
+NgaySX:22-01-2024
+NgayHH:22-01-2027
+----------------------
+Mathuoc:T006
+Tenthuoc:Lolvitax
+Thanhphan:Vitamin B1, Vitamin B2, Vitamin PP, Vitamin B6, Vitamin B5
+Congdung:Bo sung vitamin va khoang chat
+Ghichu:Uong moi lan 1 vien, 2 lan 1 ngay vao sang va toi
+Soluong:60
+NgaySX:22-03-2020
+NgayHH:22-01-2024
+----------------------
+Mathuoc:T006
+Tenthuoc:Lolvitax
+Thanhphan:Vitamin B1, Vitamin B2, Vitamin PP, Vitamin B6, Vitamin B5
+Congdung:Bo sung vitamin va khoang chat
+Ghichu:Uong moi lan 1 vien, 2 lan 1 ngay vao sang va toi
+Soluong:60
+NgaySX:12-09-2023
+NgayHH:12-09-2027
+----------------------
+Mathuoc:T007
+Tenthuoc:Pharciton
+Thanhphan:Dicalci phosphat, Vitamin C
+Congdung:Tang cuong khoang chat, bo sung vitamin
+Ghichu:3 lan mot ngay, moi lan 1 vien sau bua an
+Soluong:40
+NgaySX:22-02-2022
+NgayHH:22-02-2025
+----------------------
+Mathuoc:T008
+Tenthuoc:Mibetel
+Thanhphan:Telmisartan
+Congdung:Dieu tri tang huyet ap
+Ghichu:1 lan mot ngay vao moi toi
+Soluong:30
+NgaySX:12-01-2021
+NgayHH:12-01-2024
+----------------------
+Mathuoc:T008
+Tenthuoc:Mibetel
+Thanhphan:Telmisartan
+Congdung:Dieu tri tang huyet ap
+Ghichu:1 lan mot ngay vao moi toi
+Soluong:30
+NgaySX:23-09-2023
+NgayHH:23-09-2027
+----------------------
+Mathuoc:T009
+Tenthuoc:Cinnarizin
+Thanhphan:Povidon K30, Lactose khan, Microcrystallin cellulose PH102
+Congdung:Ngua say song, say xe
+Ghichu:mot lan 1 vien truoc khi len xe 1 tieng
+Soluong:12
+NgaySX:02-09-2022
+NgayHH:02-09-2024
+----------------------
+Mathuoc:T010
+Tenthuoc:Getenase Capsule
+Thanhphan:Sulpiride 50mg
+Congdung:Dieu tri tam than phan liet
+Ghichu:2 lan 1 ngay moi lan 1 vien
+Soluong:30
+NgaySX:02-09-2023
+NgayHH:02-09-2026
+----------------------
+Mathuoc:T011
+Tenthuoc:Lamotor 100
+Thanhphan:Lamotrigine 100mg
+Congdung:Dieu tri dong kinh
+Ghichu:2 lan mot ngay, moi lan 2 vien
+Soluong:30
+NgaySX:11-03-2022
+NgayHH:11-03-2024
+----------------------
+Mathuoc:T011
+Tenthuoc:Lamotor 100
+Thanhphan:Lamotrigine 100mg
+Congdung:Dieu tri dong kinh
+Ghichu:2 lan mot ngay, moi lan 2 vien
+Soluong:30
+NgaySX:11-09-2022
+NgayHH:11-09-2024
+----------------------
+Mathuoc:T011
+Tenthuoc:Lamotor 100
+Thanhphan:Lamotrigine 100mg
+Congdung:Dieu tri dong kinh
+Ghichu:2 lan mot ngay, moi lan 2 vien
+Soluong:30
+NgaySX:20-03-2023
+NgayHH:20-03-2025

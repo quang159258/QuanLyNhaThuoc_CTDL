@@ -1,0 +1,65 @@
+﻿  QuanLyNhaThuoc.cpp
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(355,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(913,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(924,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(987,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1023,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1024,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1031,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1032,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1069,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1079,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1080,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1126,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1127,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1133,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1134,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1174,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1184,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1185,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1343,12): warning C4101: 'm': unreferenced local variable
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1343,9): warning C4101: 'y': unreferenced local variable
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+Q:\WorkSpace\QuanLyNhaThuoc\QuanLyNhaThuoc\Function.h(1343,15): warning C4101: 'd': unreferenced local variable
+  (compiling source file 'QuanLyNhaThuoc.cpp')
+  
+  QuanLyNhaThuoc.vcxproj -> Q:\WorkSpace\QuanLyNhaThuoc\x64\Debug\QuanLyNhaThuoc.exe

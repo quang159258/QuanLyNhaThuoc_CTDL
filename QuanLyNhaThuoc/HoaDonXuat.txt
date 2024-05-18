@@ -1,0 +1,39 @@
+MaHD:X001
+Ngayxuat:16-05-2024
+Diengiai:Xuat don thuoc cho cong ty BCD
+Mathuoc:T001
+Solo:L001
+Soluong:40
+Nguoimua:Nguyen Tran Quang
+----------------------
+MaHD:X002
+Ngayxuat:16-05-2024
+Diengiai:Xuat don thuoc cho cong ty BCD
+Mathuoc:T002
+Solo:L002
+Soluong:1
+Nguoimua:Nguyen Tran Quang
+----------------------
+MaHD:X003
+Ngayxuat:16-05-2024
+Diengiai:Xuat don thuoc cho cong ty BCD
+Mathuoc:T003
+Solo:L003
+Soluong:100
+Nguoimua:Nguyen Tran Quang
+----------------------
+MaHD:X004
+Ngayxuat:16-05-2024
+Diengiai:Xuat don thuoc cho cong ty BCD
+Mathuoc:T004
+Solo:L004
+Soluong:9
+Nguoimua:Nguyen Tran Quang
+----------------------
+MaHD:X005
+Ngayxuat:16-05-2024
+Diengiai:Xuat don thuoc cho cong ty BCD
+Mathuoc:T005
+Solo:L005
+Soluong:12
+Nguoimua:Nguyen Tran Quang
